@@ -1,2 +1,2 @@
 # Belajar-Git-Githup
-pertemuan2
+pertemuan2 bebas
